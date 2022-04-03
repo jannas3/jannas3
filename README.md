@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jannas3
-- Tec e  em Informática 
+- Tec. em Informática 
 - 👀 I’m interested in  aprender novas tecnologias.
 - 🌱 I’m currentlmente  estudando Engenharia de Software
 
