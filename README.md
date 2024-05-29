@@ -1,4 +1,4 @@
-## 👋 Olá, sou a @jannas3
+## 👋 Hi, sou a @jannas3
 
 ### Sobre Mim
 - 🎓 **Técnica em Informática**
