@@ -74,19 +74,12 @@ Interesses: **Machine Learning**, **Full Stack**, **RPA** e
 
 <div align="center">
 
-<a href="https://github.com/jannas3/TCC2-DashboardPsicologia">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jannas3&repo=TCC2-DashboardPsicologia&theme=vue-dark&bg_color=0B0D0E&title_color=FF4655&text_color=ECE8E1&border_color=2A2E33&icon_color=FF4655" />
-</a>
-<a href="https://github.com/jannas3/PetZap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jannas3&repo=PetZap&theme=vue-dark&bg_color=0B0D0E&title_color=FF4655&text_color=ECE8E1&border_color=2A2E33&icon_color=FF4655" />
-</a>
-
-<a href="https://github.com/jannas3/Consumo-de-API-com-Airflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jannas3&repo=Consumo-de-API-com-Airflow&theme=vue-dark&bg_color=0B0D0E&title_color=FF4655&text_color=ECE8E1&border_color=2A2E33&icon_color=FF4655" />
-</a>
-<a href="https://github.com/jannas3/ProjetoRPA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jannas3&repo=ProjetoRPA&theme=vue-dark&bg_color=0B0D0E&title_color=FF4655&text_color=ECE8E1&border_color=2A2E33&icon_color=FF4655" />
-</a>
+| AGENTE | PAPEL | STACK | REPOSITÓRIO |
+|---|---|---|---|
+| **PSICOFLOW** | Sentinela | Python · Node.js · Next.js · PostgreSQL | [→ abrir](https://github.com/jannas3/TCC2-DashboardPsicologia) |
+| **PETZAP** | Iniciadora | Python · FastAPI · MobileNetV2 | [→ abrir](https://github.com/jannas3/PetZap) |
+| **PNCP-ETL** | Controladora | Python · Apache Airflow | [→ abrir](https://github.com/jannas3/Consumo-de-API-com-Airflow) |
+| **WAZE-RPA** | Iniciadora | Python · Playwright · RPA | [→ abrir](https://github.com/jannas3/ProjetoRPA) |
 
 </div>
 
@@ -98,10 +91,6 @@ Interesses: **Machine Learning**, **Full Stack**, **RPA** e
 
 <img src="https://github-readme-stats.vercel.app/api?username=jannas3&show_icons=true&theme=vue-dark&bg_color=0B0D0E&title_color=FF4655&text_color=ECE8E1&icon_color=FF4655&border_color=2A2E33&hide_border=false" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jannas3&theme=vue-dark&background=0B0D0E&stroke=2A2E33&ring=FF4655&fire=FF4655&currStreakLabel=FF4655&sideLabels=ECE8E1&currStreakNum=ECE8E1&sideNums=ECE8E1&dates=8B9198" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannas3&layout=compact&theme=vue-dark&bg_color=0B0D0E&title_color=FF4655&text_color=ECE8E1&border_color=2A2E33&hide_border=false" width="45%" />
 
 </div>
 
