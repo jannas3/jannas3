@@ -70,19 +70,6 @@ Interesses: **Machine Learning**, **Full Stack**, **RPA** e
 
 <br/>
 
-### `> selecionar_agente.md` — projetos em destaque
-
-<div align="center">
-
-| AGENTE | PAPEL | STACK | REPOSITÓRIO |
-|---|---|---|---|
-| **PSICOFLOW** | Sentinela | Python · Node.js · Next.js · PostgreSQL | [→ abrir](https://github.com/jannas3/TCC2-DashboardPsicologia) |
-| **PETZAP** | Iniciadora | Python · FastAPI · MobileNetV2 | [→ abrir](https://github.com/jannas3/PetZap) |
-| **PNCP-ETL** | Controladora | Python · Apache Airflow | [→ abrir](https://github.com/jannas3/Consumo-de-API-com-Airflow) |
-| **WAZE-RPA** | Iniciadora | Python · Playwright · RPA | [→ abrir](https://github.com/jannas3/ProjetoRPA) |
-
-</div>
-
 <br/>
 
 ### `> histórico_de_partidas.md` — estatísticas
