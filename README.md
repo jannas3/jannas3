@@ -19,10 +19,7 @@
 
 
 
-Interesses: **Machine Learning**, **Full Stack**, **RPA** e
-**Hiperautomação**.
 
-📍 Manaus, AM · 🌐 [Portfólio](https://portfolio-five-jet-95.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/jannas3/)
 
 </td>
 <td valign="top" width="45%">
