@@ -17,11 +17,7 @@
 
 ### `> sobre.md`
 
-Engenheira de Software formada pelo IFAM, com experiência prática em
-automação de processos, integração via APIs REST e pipelines de dados com
-Apache Airflow. Atualmente residente de tecnologia no **Instituto de
-Pesquisas Eldorado**, construindo um pipeline de visão computacional pra
-medição automatizada de camada intermetálica.
+
 
 Interesses: **Machine Learning**, **Full Stack**, **RPA** e
 **Hiperautomação**.
