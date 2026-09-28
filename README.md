@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### `> loadout.json`
+
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,nextjs,kotlin,postgresql,docker,git&theme=dark" />
 
@@ -28,7 +28,6 @@
 
 <br/>
 
-### `> histórico_de_partidas.md` — estatísticas
 
 <div align="center">
 
@@ -39,7 +38,6 @@
 
 <br/>
 
-### `> registro_de_atividade.md`
 
 <div align="center">
 
@@ -56,11 +54,6 @@
 
 <div align="center">
 
-### `> contato.md`
-
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-0B0D0E?style=for-the-badge&logo=vercel&logoColor=FF4655)](https://portfolio-five-jet-95.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0D0E?style=for-the-badge&logo=linkedin&logoColor=FF4655)](https://www.linkedin.com/in/jannas3/)
-[![Email](https://img.shields.io/badge/EMAIL-0B0D0E?style=for-the-badge&logo=gmail&logoColor=FF4655)](mailto:jannasantos997@gmail.com)
 
 <br/>
 
