@@ -1,42 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=42&duration=2500&pause=800&color=FF4655&center=true&vCenter=true&width=600&lines=JANAINA+FERREIRA;FULL+STACK+DEVELOPER;MACHINE+LEARNING;AUTOMA%C3%87%C3%83O+%26+RPA;SELECIONAR+AGENTE_" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/RANK-RADIANTE-FF4655?style=for-the-badge&labelColor=0B0D0E" />
-<img src="https://img.shields.io/badge/STATUS-DISPONÍVEL_PARA_OPORTUNIDADES-0B0D0E?style=for-the-badge&color=0B0D0E&labelColor=FF4655" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="55%">
-
-### `> sobre.md`
-
-
-
-
-
-</td>
-<td valign="top" width="45%">
-
-### `> kit_de_habilidades.md`
-
-| SLOT | HABILIDADE |
-|---|---|
-| `PASSIVA` | Python |
-| `Q` | Engenharia de Dados |
-| `E` | Machine Learning |
-| `C` | Full Stack |
-| `X` | Entrega & DevOps |
-
-</td>
-</tr>
-</table>
 
 <br/>
 
